@@ -1,5 +1,5 @@
 #+TITLE: ME 492 Graduation Project
-#+SUBTITLE: Spring 2026
+#+SUBTITLE: Fall 2026
 #+AUTHOR: Fethi Okyar
 #+STARTUP: overview
 #+REVEAL_THEME: simple
@@ -10,22 +10,27 @@
 #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
 
 * Calender
-(Spring'26):
-
-<2026-02-04 Wed> : ANNOUNCEMENT: Project Topics (from Dept. Boards)
-
-<2026-02-10 Tue> : SUBMISSION: (GoogleForms-[[https://forms.gle/6RQ55hRsdgKtRZA57][ME 492 Proje Tercih Formu]])
-
-<2026-02-11 Wed> : REGISTRATION: Look at the Topic Assignments below and select your ME 492 section accordingly, if you have not been assigned to a project yet, wait for the ADD/DROP period.
-
-<2026-04-03 Fri> : EXAM: 16:00-19:00 Comprehensive Exam (GDS)
-
-<2026-05-15 Fri> : SUBMISSION: Draft Report (YULearn Turnitin Assignment)
-
-<2026-06-28 Sun> : SUBMISSION: Final Report over Turnitin (until 23:59)
-
-<2026-06-29 Mon> : 09:30 - PRESENTATIONS
-
+(Fall'26):
+- <2026-09-15 Wed> : *ANNOUNCEMENT:* Project Topics (from Dept. Boards)
+- <2026-09-17 Thu> : *APPLICATION:* (GoogleForms-ME 492 Proje Tercih Formu) until <2026-09-21 Mon 23:59>
+- <2026-09-21 Mon> : Course Registration Begins
+- <2026-09-23 Wed> : *ASSIGNMENT:* Student-project assignments will be announced from the Course website.
+- <2026-09-23 Wed> : Course Registration Ends
+- <2026-09-28 Mon> : Start of Fall Semester
+- <2026-10-02 Fri> : *REGISTRATION:* Based on your project assignment select your advisor's section. If you have not been assigned to a project yet, wait for the ADD/DROP period.
+- <2026-10-05 Mon> : Start of Add/Drop
+- <2026-10-06 Tue> : End of Add/Drop
+- <2026-11-06 Fri> : *EXAM:* 12:00-15:00 Comprehensive Exam (GDS)
+- <2026-12-04 Fri> : *SUBMISSION:* Draft Report (YULearn Turnitin Assignment)
+- <2026-12-25 Fri> : Last Day of Classes
+- <2026-12-26 Sat> : Start of Finals
+- <2027-01-08 Fri> : End of Finals
+- <2027-01-12 Tue> : Deadline for Grades
+- <2027-01-12 Tue> : Start of Resit Exams
+- <2027-01-13 Wed> : *SUBMISSION:* Final Report over Turnitin (until 23:59)
+- <2027-01-14 Thu> : *PRESENTATIONS:* 09:30-12:00
+- <2027-01-17 Sun> : End of Resit Exams
+- <2027-01-17 Sun> : Deadline for Resit Grades
 * [[./projeler.html][Topic Assignments]]
 Click on the link above to view the project topics. Check regularly, as the table will be populated as new submissions are received from the faculty. Students names associated with the topics will be displayed along the same row.
 
