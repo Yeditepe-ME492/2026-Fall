@@ -12,13 +12,14 @@
 * Calender
 (Fall'26):
 - <2026-09-15 Wed> : *ANNOUNCEMENT:* Project Topics (from Dept. Boards)
-- <2026-09-17 Thu> : *APPLICATION:* (GoogleForms-ME 492 Proje Tercih Formu) until <2026-09-21 Mon 23:59>
+- <2026-09-17 Thu> : *APPLICATION:* (GoogleForms-[[https://forms.gle/VG36voDTMDSLJuya8][ME 492 Proje Tercih Formu]]) until <2026-09-21 Mon 23:59>
 - <2026-09-21 Mon> : Course Registration Begins
 - <2026-09-23 Wed> : *ASSIGNMENT:* Student-project assignments will be announced from the Course website.
+- <2026-10-02 Fri> : *REGISTRATION:* Based on the project assignments announced at the Topic Assignment Table below, apply to register to the appropriate section. If you have not been assigned to a project yet, wait for the ADD/DROP period.
 - <2026-09-23 Wed> : Course Registration Ends
 - <2026-09-28 Mon> : Start of Fall Semester
-- <2026-10-02 Fri> : *REGISTRATION:* Based on your project assignment select your advisor's section. If you have not been assigned to a project yet, wait for the ADD/DROP period.
 - <2026-10-05 Mon> : Start of Add/Drop
+- <2026-10-06 Tue> : *@@html:<span style="color: red;">SECOND ROUND</span>@@* If you were not assigned to a project yet, you can still fill out the form for open projects. After the processing is over, apply to register. 
 - <2026-10-06 Tue> : End of Add/Drop
 - <2026-11-06 Fri> : *EXAM:* 12:00-15:00 Comprehensive Exam (GDS)
 - <2026-12-04 Fri> : *SUBMISSION:* Draft Report (YULearn Turnitin Assignment)
